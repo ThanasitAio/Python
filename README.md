@@ -2,6 +2,9 @@
 
 ## ดีงรูป instagram
 ```python
+# ติดตั้ง cmd
+## pip install instaloader
+
 #แบบที่ 1 
 import instaloader
 ig = instaloader.Instaloader()
